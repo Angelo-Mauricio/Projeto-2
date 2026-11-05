@@ -1,0 +1,29 @@
+body {
+    background-color: midnightblue;
+}
+
+h1 {
+    color: goldenrod;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color: navajowhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.destaque {
+    background-color: lightblue;
+    color: black;
+    margin: 20px;
+}

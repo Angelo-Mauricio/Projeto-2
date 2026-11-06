@@ -1,5 +1,5 @@
 body {
-    background-color: midnightblue;
+    background-color: darkslategray;
 }
 
 h1 {
@@ -13,7 +13,7 @@ h2 {
 }
 
 h3 {
-    color: navajowhite;
+    color: chocolate;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -23,7 +23,15 @@ p {
 }
 
 .destaque {
-    background-color: lightblue;
+    background-color: yellowgreen;
     color: black;
     margin: 20px;
 }
+
+/*Pergunta 1- Colocar a cor corretamente no ".destaque" foi definitivamente o maior desafio. A semelhança da propriedade "color", na "background-color" do destaque foi muito difícil conseguir que ficasse como eu queria.
+Consegui resolver isto, ao visitar o website da w3schools onde encontrei informação sobre as cores em CSS mais detalhada.*/
+
+/*Pergunta 2- O meu erro mais comum foi esquecer-me de fechar os elementos html como "body" "p" "h1"  ou cometer erros ortográficos. Acredito que se deve ao facto de eu escrever muito rapidamente então perdi bastante tempo a ter que procurar estes pequenos erros e ter que estar constantemente a atualizar a minha página.*/
+
+/*Pergunta 3- O atributo src (source (fonte)) é utilizado em HTML para indicar o endereço de um ficheiro que queremos inserir numa página web. 
+É normalmente utilizado em elementos como "img" ou "video" para apresentar imagens ou reproduzir videos.*/
